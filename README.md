@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**FPG-992/FPG-992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-🧑‍🚀I'm Filippos and I like solving problems the optimal way. I believe in fast execution of the main solution and further optimization through iterations in a later stage.
 
 - 🔭 I’m currently working on becoming an Electrical & Computer Engineer
 - 🌱 I’m currently learning Machine Learning, Microprocessors, Operating Systems & Software Engineering
