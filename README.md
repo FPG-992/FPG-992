@@ -9,8 +9,6 @@
 - 💬 Ask me about Wordpress & SEO - Google News
 - 📫 How to reach me: Not available yet
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fpg-992&label=Profile%20views&color=0e75b6&style=flat" alt="fpg-992" /> </p>
-
 <p align="left">
 </p>
 
