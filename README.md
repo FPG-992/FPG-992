@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fpg-992&label=Profile%20views&color=0e75b6&style=flat" alt="fpg-992" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fpg-992" alt="fpg-992" /></a> </p>
-
 <p align="left">
 </p>
 
