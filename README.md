@@ -1,6 +1,7 @@
 ## Hi there 👋
 
--🧑‍🚀I'm Filippos and I like solving problems the optimal way. I believe in fast execution of the main solution and further optimization through iterations in a later stage.
+-🧑‍🚀I'm Filippos and except from loving Cars & Private Jets I like solving problems the optimal way. 
+-👨‍🔧I believe in fast execution of the main solution and further optimization through iterations in the life cycle.
 
 - 🔭 I’m currently working on becoming an Electrical & Computer Engineer
 - 🌱 I’m currently learning Machine Learning, Microprocessors, Operating Systems & Software Engineering
