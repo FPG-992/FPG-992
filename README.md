@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently studying Electrical & Computer Engineering
 - 🌱 At the moment learning Machine Learning, Microprocessors, Operating Systems & Software Engineering.
-- 💬 Skilleed in Wordpress & SEO - Google News
+- 💬 Skilled in Wordpress & SEO - Google News
 
 <p align="left">
 </p>
