@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hello
 
 - 🧑‍🚀 I'm Filippos, I like cars & jets.
   
 - 🔭 I’m currently studying Electrical & Computer Engineering
-- 🌱 At the moment learning Machine Learning, Microprocessors, Operating Systems & Software Engineering.
-- 💬 Skilled in Programming, Wordpress & SEO.
+- 🌱 At the moment learning Machine Learning, Deeplearning & Neural Networks, Digital VLSIs & FPGAS, Software Engineering, Computer Architecture.
+- 💬 Skilled in Solving Problems.
 
 <p align="left">
 </p>
