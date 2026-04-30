@@ -3,9 +3,7 @@
 - 🧑‍🚀 I'm Filippos, I like cars & jets.
   
 - 🔭 I’m currently studying Electrical & Computer Engineering
-- 🌱 At the moment learning Digital VLSIs & FPGAS, Computer Architecture.
-- 💬 Skilled in Solving Problems.
-
+- 
 <p align="left">
 </p>
 
