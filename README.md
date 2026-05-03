@@ -3,7 +3,7 @@
 - 🧑‍🚀 I'm Filippos, I like cars & jets.
   
 - 🔭 I’m currently studying Electrical & Computer Engineering
-- 
+
 <p align="left">
 </p>
 
